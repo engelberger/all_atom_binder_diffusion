@@ -9,3 +9,4 @@ params/done.txt
 __pycache__/amino_acids.cpython-310.pyc
 clean_pdb.py
 amino_acids.py
+params
