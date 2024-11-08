@@ -10,3 +10,8 @@ __pycache__/amino_acids.cpython-310.pyc
 clean_pdb.py
 amino_acids.py
 params
+rf_diffusion_all_atom
+RFdiffusion
+outs/*
+rf_diffusion_all_atom
+RFdiffusion
